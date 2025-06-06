@@ -82,10 +82,7 @@ A slide deck (PDF) summarizes the end-to-end process, including:
 
 ## 🔮 Future Work
 
-- Explore real-time fraud detection using streaming data (e.g., Spark Structured Streaming).
-- Incorporate time-based features and session-level behavior patterns.
 - Test deep learning models for sequence-based fraud detection.
-- Continuously monitor and retrain the model with new data to adapt to evolving fraud tactics.
 
 ---
 
